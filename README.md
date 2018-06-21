@@ -2,10 +2,15 @@
 Imperial College London Electrical and Electronic Engineering 3rd year project for the Micro:Bit community
 
 \\icnas4.cc.ic.ac.uk\lfb15.
+
 ├───Deliverables
+
 │   ├───Hackbooth
+
 │   │   └───Poster Illustrations
+
 │   └───Leaflet
+
 │       └───Leaflet Illustrations
 ├───Design History
 │   ├───Components
