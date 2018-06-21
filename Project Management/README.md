@@ -1,1 +1,1 @@
-ENTER TEXT
+This folder describes the planning and execution of the project and background reserach conducted. Records of client and supervisor meetings with decisions made and GANTT chart showing project timeline are included. Primary research (survey) and secondary research (competitor analysis) are also present. 
