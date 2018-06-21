@@ -1,16 +1,10 @@
 # Mega-Bit
 Imperial College London Electrical and Electronic Engineering 3rd year project for the Micro:Bit community
 <pre>
-\\icnas4.cc.ic.ac.uk\lfb15.
-
 ├───Deliverables
-
 │   ├───Hackbooth
-
 │   │   └───Poster Illustrations
-
 │   └───Leaflet
-
 │       └───Leaflet Illustrations
 ├───Design History
 │   ├───Components
@@ -23,26 +17,6 @@ Imperial College London Electrical and Electronic Engineering 3rd year project f
 │   ├───Hardware
 │   │   ├───PCB
 │   │   │   ├───MEGABIT FINAL PCB
-│   │   │   │   ├───BOM
-│   │   │   │   ├───Design
-│   │   │   │   │   └───History
-│   │   │   │   ├───Gerber
-│   │   │   │   └───NC Drill
-│   │   │   ├───PCB 1st revision
-│   │   │   │   ├───Altium Files
-│   │   │   │   ├───Gerber
-│   │   │   │   └───NC DRILL
-│   │   │   ├───PCB 2nd revision
-│   │   │   │   ├───Altium Files
-│   │   │   │   │   └───History
-│   │   │   │   ├───Gerber
-│   │   │   │   └───NC Drill
-│   │   │   └───PCB 3rd revision
-│   │   │       ├───BOM
-│   │   │       ├───Design
-│   │   │       │   └───History
-│   │   │       ├───Gerber
-│   │   │       └───NC Drill
 │   │   └───Prototype Modelling
 │   ├───Manufacturing
 │   └───Software
