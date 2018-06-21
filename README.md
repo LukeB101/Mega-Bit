@@ -1,6 +1,6 @@
 # Mega-Bit
 Imperial College London Electrical and Electronic Engineering 3rd year project for the Micro:Bit community
-
+<pre>
 \\icnas4.cc.ic.ac.uk\lfb15.
 
 ├───Deliverables
@@ -54,3 +54,4 @@ Imperial College London Electrical and Electronic Engineering 3rd year project f
 │   └───Expense Claims
 └───Project Management
     └───Meetings
+</pre>
