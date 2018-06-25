@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Uni\AppData\Local\Temp\Releases\Snapshot\1\MEGABIT - rev1.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=megabit - rev1-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=megabit - rev1-slotholes.txt|LayerPairs=gtl,gbl
