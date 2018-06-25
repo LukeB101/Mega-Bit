@@ -2,6 +2,7 @@
 Imperial College London Electrical and Electronic Engineering 3rd year project for the Micro:Bit community
 
 ![Mega:Bit](prototypes.jpg)
+![Mega:Bit](pictures/prototypes.jpg)
 
 <pre>
 ├───Deliverables
