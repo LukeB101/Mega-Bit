@@ -1,7 +1,7 @@
 # DISCLAIMER: This folder is currently out of date
 
-## See code folder for design history code: [a link](https://github.com/LukeB101/Mega-Bit/tree/master/Design%20History/Software/code)
-## See final product design folder for complete DAL: 
+## For design history see the [code](https://github.com/LukeB101/Mega-Bit/tree/master/Design%20History/Software/code) folder.
+## For complete DAL see [final product design](https://github.com/LukeB101/Mega-Bit/tree/master/Final%20Product%20Design) folder. 
 
 This folder contains our modified Micro:bit-DAL code.
 
