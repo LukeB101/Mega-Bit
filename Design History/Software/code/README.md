@@ -7,4 +7,4 @@ Item | Description
 MicroBitDisplay.cpp | Small edit to allow for display brightness changes
 MicroBitImage.cpp | Major edits to implement all code to sense and drive I2C LED dot matrix
 MicroBitImage.h | Header file with small edit to allow MicroBitDisplay.cpp to access brightness command from MicroBitImage.cpp
-main.cpp | Development of code to sense the square wave handshake
+handshake.cpp | Development of code to sense the square wave handshake
