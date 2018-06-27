@@ -1,13 +1,6 @@
 Item | Description
 --- | --- 
-*Still* | `renders` 
-1 | 2 
-
-
-code - 
-
-modified-DAL
-
-Software design process
-
-i2c-addresses
+code/ | Includes files from the DAL which are edited 
+modified-DAL/ | Complete DAL (not up-to-date) 
+Software Design Process.pdf | Description of the software development process 
+i2c-addresses.pdf | List of I2C addresses used by Adafruit devices (referenced in file above) 
