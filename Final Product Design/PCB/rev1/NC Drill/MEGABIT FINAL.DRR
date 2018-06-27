@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MEGABIT FINAL.CMPcbDoc   21/06/2018  16:37:28
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MEGABIT FINAL.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          25               0.98 Inch (24.89 mm)
+T2        19.68mil (0.49987mm)     Round          45               11.75 Inch (298.56 mm)
+T3        27.56mil (0.70002mm)     Round          70               27.84 Inch (707.03 mm)
+T4        29.53mil (0.75006mm)     Round          24               6.66 Inch (169.20 mm)
+T5        30mil (0.762mm)          Round          18               17.94 Inch (455.68 mm)
+T6        35.43mil (0.89992mm)     Round          8                1.30 Inch (33.02 mm)
+T7        50mil (1.27mm)           Round          3                0.20 Inch (5.08 mm)
+T8        51.18mil (1.29997mm)     Round          5                0.40 Inch (10.16 mm)
+T9        59.06mil (1.50012mm)     Round          2                2.13 Inch (54.00 mm)
+T10       63.39mil (1.61011mm)     Round          2                1.02 Inch (26.00 mm)
+T11       70.87mil (1.8001mm)      Round          6                0.93 Inch (23.60 mm)
+---------------------------------------------------------------------------
+Totals                                            208              71.15 Inch (1807.22 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
