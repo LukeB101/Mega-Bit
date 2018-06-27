@@ -1,5 +1,5 @@
-Plastic case supplier quotes - quotes for case production using injection moulding
-
-Manufacturing considerations - brief outline of case requirements
-
-Megabit production cost - breakdown of final product manufacturing costs
+Item | Description
+--- | --- 
+/Plastic case supplier quotes | quotes for case production using injection moulding
+Manufacturing Considerations.pdf | brief outline of case requirements
+Megabit Production Cost.pdf | Breakdown of final product manufacturing costs 
