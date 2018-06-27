@@ -3,3 +3,5 @@ Imperial College London Electrical and Electronic Engineering 3rd year project f
 
 ![Mega:Bit](pictures/prototypes.jpg)
 
+![Mega:Bit](pictures/repoStructure.jpg)
+
