@@ -1,1 +1,1 @@
-Assortment of pictures of the project used in the reports.
+Assortment of pictures of the project.
